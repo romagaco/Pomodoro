@@ -35,6 +35,6 @@ La aplicación muestra un temporizador en el centro de la pantalla con el nombre
 ## Instalación
 1. Clona o descarga este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/pomodoro-vanilla-js.git
+   git clone https://github.com/romagaco/Pomodoro
 
 
